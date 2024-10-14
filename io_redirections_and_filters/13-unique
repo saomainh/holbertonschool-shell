@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -u < list_of_words
+cat list_of_words | sort | uniq -u
