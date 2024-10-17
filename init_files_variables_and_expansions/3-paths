@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PATH > path | grep -o "/" path | tr -d '\n\r' | wc -m  
