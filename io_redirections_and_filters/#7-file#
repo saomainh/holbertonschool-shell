@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Best School" >  0-hello_world~       2-hellofile~   4-lastlines~    6-third_line~  '\*\\'\'''\''Best'
+
